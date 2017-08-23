@@ -1,0 +1,22 @@
+O que acontece quando inicializa um repositório? Por que você precisa fazer isso?
+Quando se inicializa o repositório é criada uma pasta oculta com metadados sobre o git. É necessário fazer isso pois auxilia no controle da versão do que está sendo alterado
+
+Como a área de teste é diferente do diretório de trabalho e do repositório?
+Qual o valor que você acha que oferece?
+A área de preparação do diretório de trabalho é diferente em relação a do repositório pois na do repositório é possível escolher quais arquivos serão levados até lá e descrever suas modificações enquanto no diretório de trabalho não.
+Tem grande valor pois facilita o controle das versões dos arquivos
+
+Como você pode usar a área de teste para garantir que você tenha um commit por lógica
+mudança?
+
+
+Quais são as situações em que as agências seriam úteis para manter seu histórico
+organizado? Como as filiais ajudaram?
+
+Como os diagramas o ajudam a visualizar a estrutura do ramo?
+
+Qual é o resultado da fusão de dois ramos juntos? Por que a representamos em
+O diagrama da maneira que fazemos?
+
+Quais são os prós e contras da fusão automática do Git vs. sempre fazendo mesclagens
+Manualmente?
