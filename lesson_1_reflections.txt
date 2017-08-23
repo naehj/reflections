@@ -1,0 +1,20 @@
+﻿Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+O diff tem papel essencial para auxiliar na detecção de erros dado que mostra as diferenças entre os códigos linha a linha facilitando o entendimento.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+Através do histórico pode-se ter um maior controle de erros cometidos no passado para que em momentos futuros não se cometa o mesmo erro.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+A criação de commits manuais são essenciais para o controle de versão dado que o programador terá como saber o que está acontecendo em seu passo a passo pois o mesmo pode adicionar uma descrição ao commit o que não ocorre com o salvamento automático do Google Docs no qual há uma perda de controle do que foi feito e porque.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+Pois no caso do git a alteração feita em um conjunto de arquivos pode ter um propósito único que é descrito para facilitar o entendimento enquanto no Google Docs pelo fato de que o salvamento é automático e não tem uma descrição para cada alteração o que tornaria difícil se fossem alterádos vários arquivos em um único salvamento.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+Primeiramente se utiliza o git log para verificar todo o log dos arquivos e logo após deve-se utilizar o git diff para verificar as alterações feitas nos arquivos do git.
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+Através do controle de versão é possível encontrar onde o bug foi inserido e assim entender como corrigir este bug o que fará com que alterações que podem danificar algo sejam facilmente revertidas.
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+Tenho como objetivo usar o git para melhorar meu aprendizado sobre controle de versão e também para auxiliar no meu estágio.
