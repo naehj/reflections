@@ -8,15 +8,19 @@ Tem grande valor pois facilita o controle das versões dos arquivos
 
 Como você pode usar a área de teste para garantir que você tenha um commit por lógica
 mudança?
-
+A cada alteração lógica feita em uma classe você adiciona esta classe a área de preparação e envia o código alterado com a descrição desta alteração.
 
 Quais são as situações em que as agências seriam úteis para manter seu histórico
 organizado? Como as filiais ajudaram?
+Em casos onde eu precise criar novas funcionalidades, a criação de branchs são essenciais pois posso realizar os testes dessas funcionalidades antes de adicionar ao branch master sem quebrar o mesmo.
 
 Como os diagramas o ajudam a visualizar a estrutura do ramo?
+Através de diagramas podemos entender como funcionam todos os branchs separadamente e quais suas conexões com o branch master para facilitar o rastreio de erros.
 
 Qual é o resultado da fusão de dois ramos juntos? Por que a representamos em
 O diagrama da maneira que fazemos?
+Ao se mesclar dois branchs nós podemos acessar diferentes pontos dos dois branchs antigos e representamos o diagrama daquela forma para termos uma noção de que 2 branchs foram mesclados em 1 só.
 
 Quais são os prós e contras da fusão automática do Git vs. sempre fazendo mesclagens
 Manualmente?
+Quando se fazem mesclagens automáticas é possível diminuir o tempo necessário para execução de uma mesclagem o que facilita o processo enquanto mesclagens manuais dão um controle maior de quando estão sendo feitas e quais as diferenças estão sendo inseridas.
