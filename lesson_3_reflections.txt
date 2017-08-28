@@ -1,9 +1,8 @@
-Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+﻿Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 Quando há muitas pessoas trabalhando em conjunto para facilitar o controle.
 
-Por que você deseja sempre puxar as mudanças manualmente em vez de ter Git
-Mantenha-se atualizado com seu repositório remoto?
-
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+Porquê através de pull manual as atualizações feitas no remoto são controladas de forma melhor o que facilita o trabalho e noção dos commits
 
 Descreva as diferenças entre garfos, clones e ramos. Quando você gostaria
 Use um em vez de outro?
