@@ -4,18 +4,17 @@ Quando há muitas pessoas trabalhando em conjunto para facilitar o controle.
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 Porquê através de pull manual as atualizações feitas no remoto são controladas de forma melhor o que facilita o trabalho e noção dos commits
 
-Descreva as diferenças entre garfos, clones e ramos. Quando você gostaria
-Use um em vez de outro?
-
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+As bifurcações funcional como clones dentro do próprio github, o clone pega o arquivo no github e copia para o computador e o branch cria uma vertente diferente da original para edição.
 
 Qual é o benefício de ter uma cópia do último estado conhecido do controle remoto
 Armazenado localmente?
-
+Para facilitar a diferenciação entre os estados remoto e local.
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil,
 E o que seria mais difícil?
-
+Enviando os arquivos através de emails para os outros colaboradores. Seria mais difícil controlar as alterações e seria mais fácil dialogar sobre as mudanças necessárias.
 
 Quando você gostaria de fazer mudanças em uma filial separada, em vez de diretamente em
 mestre? Quais os benefícios de cada abordagem?
-
+Quando se está trabalhando de forma cooperativa e que há vários trabalhos sendo feitos de forma separada, é neste momento em que se deve trabalhar com branchs separados. Tem benefícios tais como melhoria de controle e divisão de trabalho entre diferentes colaboradores.
